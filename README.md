@@ -1,9 +1,9 @@
-<img src="./J{}_logo.svg" style="display: block; margin: 0 auto">
-
-<h2 style="text-align:center;">Hi there 👋. </h2>
-<h2 style="text-align:center;">I'm Jordi, an always evolving Full Stack Developer.</h2>
-
 <div style="text-align:center;">
+<img src="./J{}_logo.svg" width="200">
+
+## Hi there 👋. </h2>
+## I'm Jordi, an always evolving Full Stack Developer.</h2>
+
 
 **MERN** is my main focus.
 
