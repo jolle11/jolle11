@@ -11,7 +11,7 @@ At home I also use **Vite** <img src="https://camo.githubusercontent.com/61e102d
 
 I write about my projects on <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" width="100px" />.
 
-Soon on my own blog I'm currently building.
+Soon, on the blog I'm building.
 
 </div>
 <!--
