@@ -11,8 +11,6 @@ At home I also use **Vite** <img src="https://camo.githubusercontent.com/61e102d
 
 I write about my projects on Hashnode <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="20px" />.
 
-Soon, on the blog I'm building.
-
 </div>
 <!--
 **jolle11/jolle11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
