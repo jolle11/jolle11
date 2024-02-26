@@ -5,7 +5,7 @@ I'm an always evolving Full Stack Developer
 -------------------------------------------
 
 * 🌍  I'm based in Alcover
-* 🖥️  See my portfolio at [my website](http://jordi-olle.com/portfolio)
+* 🖥️  See my portfolio at [here](http://jordi-olle.com)
 * 🧠  I'm learning Astro 🚀
 
 <a href="https://www.github.com/jolle11" target="_blank" rel="noreferrer"><img
