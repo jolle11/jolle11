@@ -6,7 +6,6 @@ I'm an always evolving Full Stack Developer
 
 * 🌍  I'm based in Alcover
 * 🖥️  See my portfolio [here](http://jordi-olle.com)
-* 🧠  I'm learning Astro 🚀
 * ⚒️  I'm building a vehicle tracker 🚗🏍️
 
 <a href="https://github.com/jolle11" align="left">
