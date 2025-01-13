@@ -7,7 +7,7 @@ I'm an always evolving Full Stack Developer
 * 🌍  I'm based in Alcover
 * 🖥️  See my portfolio [here](http://jordi-olle.com/portfolio)
 * 🚗  [Fuel Tracker App](https://www.fueltrackerapp.com)
-* 🗺️  Building a translation app 🏴🏳️
+* 🗺️  Building a translation app
 * 🔖  Building a bookmarks app
 
 <a href="https://github.com/jolle11" align="left">
