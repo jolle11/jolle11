@@ -5,10 +5,10 @@ I'm an always evolving Full Stack Developer
 -------------------------------------------
 
 * 🌍  I'm based in Alcover
-* 🖥️  See my portfolio [here](http://jordi-olle.com/portfolio)
+* 🖥️  See my portfolio [here](https://jordi-olle.com/portfolio)
 * 🚗  [Fuel Tracker App](https://www.fueltrackerapp.com)
 * 🔖  [Bookmarks Pro](https://www.bookmarks-pro.com)
-* 🏘️  Building in public Feedback Town (sharing it [here](https://jordi0lle.hashnode.dev/))
+* 🏘️  Building in public Feedback Town (sharing it [here](https://jordi-olle.com/blog))
 * 🗺️  Building a translation app
 
 <a href="https://github.com/jolle11" align="left">
