@@ -8,6 +8,7 @@ I'm an always evolving Full Stack Developer
 * 🖥️  See my portfolio [here](https://jordi-olle.com/portfolio)
 * 🚗  [Fuel Tracker App](https://www.fueltrackerapp.com)
 * 🔖  [Bookmarks Pro](https://www.bookmarks-pro.com)
+* 👣  [Barefoot Global](https://www.barefoor-global.com)
 * 🏘️  Building in public Feedback Town (sharing it [here](https://jordi-olle.com/blog))
 * 🗺️  Building a translation app
 
