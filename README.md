@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordi Ollé
-==================================================================================================================================
+### Hi 👋 My name is Jordi Ollé
 
-I'm an always evolving Full Stack Developer
--------------------------------------------
+### I'm an always evolving Full Stack Developer 🧬
 
-* 🖥️  Check my [portfolio](https://jordi-olle.com/portfolio)
-* Projects:
-  * PROD:
+🖥️  Check my **[PORTFOLIO](https://jordi-olle.com/portfolio)**
+
+### Projects
+  * 🚀 **PROD**
     🚗  [Fuel Tracker App](https://www.fueltrackerapp.com) | 🔖  [Bookmarks Pro](https://www.bookmarks-pro.com) | 👣  [Barefoot Global](https://www.barefoot-global.com)
-  * DEV:
+  * ⚒️ **DEV**
     🏘️  Feedback Town (sharing it [here](https://jordi-olle.com/blog)) | 🗺️  Translation app | 👶  bAIby meal planner
 
 <a href="https://github.com/jolle11" align="left">
