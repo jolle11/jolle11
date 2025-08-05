@@ -2,7 +2,7 @@
 
 ### I'm an always evolving Full Stack Developer 🧬
 
-🖥️  Check my **[PORTFOLIO](https://jordi-olle.com/portfolio)**
+🖥️  Check my **[website](https://jordi-olle.com)**
 
 ### Projects
   * 🚀 **PROD**
