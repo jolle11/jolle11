@@ -3,7 +3,7 @@
 ### Projects
 
 🚗  [Fuel Tracker App](https://www.fueltrackerapp.com) <br>
-💰  [Debt Detox](https://debtdetox.vercel.app) <br>
+💰  [Debt Detox](https://debtdetox.up.railway.app) <br>
 🏠  [House Wars](https://housewars.app) <br>
 ☑️  [Toodoo](https://toodooapp.up.railway.app) <br>
 🥗  [Bocado](https://bocado.up.railway.app) <br>
